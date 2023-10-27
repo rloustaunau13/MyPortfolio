@@ -1,8 +1,11 @@
 body {
  font-family: "Comic Sans MS", "Comic Sans";
+  font-size:10px;
+  height:100%
   margin: 0;
   padding: 0;
 }
+
 
 header {
   background-color: #081578;
